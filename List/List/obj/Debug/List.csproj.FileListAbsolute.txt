@@ -1,0 +1,8 @@
+C:\Users\ЗлобиновРС\source\repos\List\List\List\bin\Debug\List.exe.config
+C:\Users\ЗлобиновРС\source\repos\List\List\List\bin\Debug\List.exe
+C:\Users\ЗлобиновРС\source\repos\List\List\List\bin\Debug\List.pdb
+C:\Users\ЗлобиновРС\source\repos\List\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\ЗлобиновРС\source\repos\List\List\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЗлобиновРС\source\repos\List\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\ЗлобиновРС\source\repos\List\List\List\obj\Debug\List.exe
+C:\Users\ЗлобиновРС\source\repos\List\List\List\obj\Debug\List.pdb
